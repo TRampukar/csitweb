@@ -3,7 +3,7 @@
 ## Introduction
 
 * html ( if anything to writte use * or -)
-
+- checking for git push is by writting (git status)
 ```(if anything to write)
 we are learning html
 
