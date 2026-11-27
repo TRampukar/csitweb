@@ -1,6 +1,6 @@
-#(h1) CSIT web
+# CSIT web
 
-##(h1,h2) Introduction
+## Introduction
 
 * html ( if anything to writte use * or -)
 
@@ -8,3 +8,5 @@
 we are learning html
 
 kjguhgjkjfdskjfdhughjjbkjdfj
+ #(use for heading h1)
+ ## (it is used for second heading h1,h2)
